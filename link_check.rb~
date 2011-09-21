@@ -64,5 +64,3 @@ myfile = File.open(outputFile.to_s, 'w') do |fileOut|
       end
     end
 end
-puts "Finished!"
-fileOut.puts "Finished!"
